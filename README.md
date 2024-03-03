@@ -26,10 +26,10 @@ Fast/Advanced Discord Multi-Tool to spam/raid Discord Servers
 ## Prices 💵 :
 ~~25.60 USD Lifetime~~ **FREE FOR EARLY ACCESS** (Would be released on 2024/07/01)
 
-**Requirements:**
+## **Requirements:**
 - Supported OS: **Windows 10 or higher**
 - RAM: **4GB**
 - Internet Connection: **REQUIRED**
 - VM's are not supported!
 
-Notes: Your antivirus software might detect this file as malicious. It simply uses certutil.exe to download configuration files. You can either ignore the detection or temporarily disable your antivirus. This program is for educational purposes only.
+**Notes:** Your antivirus software might detect this file as malicious. It simply uses [certutil.exe](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/certutil)  to download configuration files. You can either ignore the detection or temporarily disable your antivirus. This program is for educational purposes only.
