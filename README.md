@@ -21,7 +21,6 @@ Fast/Advanced Discord Multi-Tool to spam/raid Discord Servers
 > - Delete Webhook
 > - Webhook Spammer
 > - Captcha Solver
-> - GUI
 
 ## Prices 💵 :
 ~~25.60 USD Lifetime~~ **FREE FOR EARLY ACCESS** (Would be released on 2024/07/01)
